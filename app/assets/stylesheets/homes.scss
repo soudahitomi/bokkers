@@ -7,10 +7,15 @@
   box-sizing: border-box;
 }
 
-p {
+body {
   margin: 33px;
 }
 
-a {
+h1 {
+  font-family: verdana, arial, helvetica, sans-serif;
+  line-height: 18px;
+}
+p {
   margin: 33px;
+  font-size: 13px;
 }
